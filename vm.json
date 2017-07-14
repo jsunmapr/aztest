@@ -248,7 +248,7 @@
                 "osProfile": "[variables('osProfile')]",
                 "storageProfile": {
                     "imageReference": {
-                      "id" : "/subscriptions/de018edb-82fa-4253-87a5-13f7c79e4e5a/resourceGroups/jsuntestsa/providers/Microsoft.Compute/images/mapr520-govt-170518"
+                      "id" : "/subscriptions/de018edb-82fa-4253-87a5-13f7c79e4e5a/resourceGroups/jsuntestsaimg/providers/Microsoft.Compute/images/govt-170522"
                     },
                     "osDisk": {
                       "name" : "[concat(parameters('vmName'),'osdisk')]",
